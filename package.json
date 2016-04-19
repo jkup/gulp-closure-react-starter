@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/jkup/gulp-closure-react-starter#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-closure-compiler": "^0.4.0"
   }
 }
