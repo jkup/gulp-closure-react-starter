@@ -1,0 +1,29 @@
+{
+  "name": "gulp-closure-react-starter",
+  "version": "1.0.0",
+  "description": "A starter kit for building React apps using Google's Closure compiler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkup/gulp-closure-react-starter.git"
+  },
+  "keywords": [
+    "gulp",
+    "closure",
+    "react",
+    "starter",
+    "kit"
+  ],
+  "author": "Jon Kuperman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jkup/gulp-closure-react-starter/issues"
+  },
+  "homepage": "https://github.com/jkup/gulp-closure-react-starter#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
